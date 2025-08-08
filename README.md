@@ -21,9 +21,6 @@
 <p align="left">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louiseanne2&theme=tokyonight" />
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>

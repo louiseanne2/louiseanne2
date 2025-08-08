@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/louiseanne2/louiseanne2/blob/main/porpol.png?raw=true" alt="Louise Profile" height="100" width="600" />
+  <img src="https://github.com/louiseanne2/louiseanne2/blob/main/porpol.png?raw=true" alt="Louise Profile"  width="900" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Louise Anne S. Bechayda</h1>

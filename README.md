@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋, I'm Louise Anne S. Bechayda</h1>
 <h3 align="center">Aspiring Software Quality Assurance</h3>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=louiseanne2&theme=onedark&no-frame=true&column=6&title=MultiLanguage,Commits,Repositories,Followers,Stars,PullRequest"/>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louiseanne2" alt="louiseanne2" /></a> </p>
 
@@ -18,7 +22,7 @@
 </p>
   
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 

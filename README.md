@@ -17,7 +17,6 @@
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=louiseanne2&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louiseanne2&theme=radical&hide_border=true" />
 </p>
   
 

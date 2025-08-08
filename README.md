@@ -2,6 +2,12 @@
   <img src="https://github.com/louiseanne2/louiseanne2/blob/main/porpol.png?raw=true" alt="Louise Profile" width="600" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=louiseanne2&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louiseanne2&theme=radical&hide_border=true" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Louise Anne S. Bechayda</h1>
 <h3 align="center">Aspiring Software Quality Assurance</h3>
 

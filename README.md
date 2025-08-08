@@ -5,14 +5,6 @@
 <h1 align="center">Hi 👋, I'm Louise Anne S. Bechayda</h1>
 <h3 align="center">Aspiring Software Quality Assurance</h3>
 
-<h1 align="center">Hi 👋, I'm Louise Anne S. Bechayda</h1>
-<h3 align="center">Aspiring Software Quality Assurance</h3>
-
-<p align="center">
-  <img src=""C:\Users\Louise\Downloads\porpol.png"" alt="Louise Anne S. Bechayda" width="100%" />
-</p>
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louiseanne2" alt="louiseanne2" /></a> </p>
 
 - 🌱 I’m currently learning **Bachelor of Science in Information Systems**

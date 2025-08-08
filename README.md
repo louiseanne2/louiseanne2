@@ -12,7 +12,8 @@
 
 - 🎓 I’m currently studying the course **Bachelor of Science in Information Systems**
 - 🔍 I'm passionate about **software testing** and **quality assurance**
-- 📫 How to reach me **louiseannesuriobechayda@gmail.com**  
+- 📫 How to reach me **louiseannesuriobechayda@gmail.com**
+- 💡 I love solving problems, exploring, and studying!
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=louiseanne2&show_icons=true&theme=radical&count_private=true&hide_border=true" />

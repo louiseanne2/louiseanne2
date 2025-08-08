@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="C:\Users\Louise\Downloads\porpol.png" alt="Louise Profile" width="200" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Louise Anne S. Bechayda</h1>
+<h3 align="center">Aspiring Software Quality Assurance</h3>
+
 <h1 align="center">Hi 👋, I'm Louise Anne S. Bechayda</h1>
 <h3 align="center">Aspiring Software Quality Assurance</h3>
 

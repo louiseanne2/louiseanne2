@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\Louise\Downloads\porpol.png" alt="Louise Profile" width="200" />
+  <img src="[C:\Users\Louise\Downloads\porpol.png](https://github.com/louiseanne2/louiseanne2/blob/main/porpol.png?raw=true)" alt="Louise Profile" width="200" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Louise Anne S. Bechayda</h1>

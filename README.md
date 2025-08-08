@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Quality Assurance</h3>
 
 <p align="center">
-  <img src=""C:/Users/Louise/Downloads/porpol.png"" alt="banner" width="100%" />
+  <img src=""C:\Users\Louise\Downloads\porpol.png"" alt="banner" width="100%" />
 </p>
 
 

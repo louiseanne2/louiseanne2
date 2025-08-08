@@ -5,11 +5,19 @@
 <h1 align="center">Hi 👋, I'm Louise Anne S. Bechayda</h1>
 <h3 align="center">Aspiring Software Quality Assurance</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=B36AE2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Louise+Anne+S.+Bechayda!;Aspiring+Software+Quality+Assurance;Welcome+to+my+purple+tech+space!+%F0%9F%8C%B0" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/louiseanne2/louiseanne2/blob/main/your-purple-image.png?raw=true" alt="Purple Collage" width="600"/>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louiseanne2" alt="louiseanne2" /></a> </p>
 
-- 🌱 I’m currently studying the course **Bachelor of Science in Information Systems**
-
-- 📫 How to reach me **louiseannesuriobechayda@gmail.com**
+- 🎓 I’m currently studying the course **Bachelor of Science in Information Systems**
+- 🔍 I'm passionate about **software testing** and **quality assurance**
+- 📫 How to reach me **louiseannesuriobechayda@gmail.com**  
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=louiseanne2&show_icons=true&theme=radical&count_private=true&hide_border=true" />

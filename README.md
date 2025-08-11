@@ -18,6 +18,7 @@
 <p align="left">
   <p><strong> Connect Here: </strong></p>
   <a href="https://www.facebook.com/profile.php?id=61553677047863" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61553677047863" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-B36AE2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>

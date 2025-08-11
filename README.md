@@ -5,11 +5,6 @@
 <h1 align="left">Hi 👋, I'm Louise Anne</h1>
 <h3 align="left">Aspiring Software Quality Assurance</h3>
 
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louiseanne2" alt="louiseanne2" /></a> </p>
-
 - 🎓 I’m currently studying the course **Bachelor of Science in Information Systems**
 - 🔍 I'm passionate about **software testing** and **quality assurance**
 - 📫 How to reach me **louiseannesuriobechayda@gmail.com**
@@ -28,6 +23,3 @@
 </p>
 <p align="left">
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=louiseanne2&show_icons=true&locale=en&layout=compact" alt="louiseanne2" /></p>

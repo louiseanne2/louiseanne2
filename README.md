@@ -20,6 +20,12 @@
   <a href="https://www.facebook.com/profile.php?id=61553677047863" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-B36AE2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  <p align="left">
+  <a href="mailto:louiseannesuriobechayda@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 </p>
 <p align="left">
 </p>

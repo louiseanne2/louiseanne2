@@ -1,9 +1,11 @@
 <p align="center"> <img src="https://github.com/louiseanne2/louiseanne2/blob/main/porpol.png?raw=true" alt="Louise Profile" width="900" /> </p> 
 <h1 align="left">Hi 👋, I'm Louise Anne</h1> 
 <h3 align="left">Aspiring Software Quality Assurance</h3> 
+
 - 🎓 I’m currently studying the course **Bachelor of Science in Information Systems** 
 - 🔍 I'm passionate about **software testing** and **quality assurance*** 
-- 💡 I love solving problems, exploring, and studying! 
+- 💡 I love solving problems, exploring, and studying!
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=louiseanne2&show_icons=true&theme=radical&count_private=true&hide_border=true" /> </p> 
   

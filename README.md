@@ -6,8 +6,7 @@
 <h3 align="left">Aspiring Software Quality Assurance</h3>
 
 - 🎓 I’m currently studying the course **Bachelor of Science in Information Systems**
-- 🔍 I'm passionate about **software testing** and **quality assurance**
-- 📫 How to reach me **louiseannesuriobechayda@gmail.com**
+- 🔍 I'm passionate about **software testing** and **quality assurance***
 - 💡 I love solving problems, exploring, and studying!
 
   <p align="center">

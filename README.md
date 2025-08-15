@@ -26,4 +26,6 @@
     <img src="https://img.shields.io/badge/Facebook-7289DA?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:louiseannesuriobechayda@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-F85032?style=for-the-badge&lo
+    <img src="https://img.shields.io/badge/Email-F85032?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>

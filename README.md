@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" />
-  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=E70FF7&width=435&lines=Delivering+excellence+through+quality.;Prevent+defects%2C+ensure+perfection.;Because+flawless+matters." />
 </p>
 

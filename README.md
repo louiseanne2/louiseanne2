@@ -13,11 +13,9 @@
   <li>Waterfall Methodology</li>
 </ul>
 
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge&logo=testing-library&logoColor=white"/>
+<img src="https://img.shields.io/badge/Waterfall%20Model-4CAF50?style=for-the-badge&logo=water&logoColor=white"/>
+
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=louiseanne2&show_icons=true&theme=radical&count_private=true&hide_border=true" /> </p> 

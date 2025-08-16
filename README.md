@@ -10,12 +10,14 @@
 <h4 align="left">🛠 Skills & Tools</h4>
 <ul>
   <li>Manual Testing (Test Cases, Test Scenarios, Bug Reports)</li>
-  <li>Automation Testing (Selenium, Cypress, Playwright)</li>
-  <li>Bug Tracking & Test Management Tools (Jira, TestRail, Bugzilla)</li>
-  <li>API Testing (Postman, REST Assured)</li>
-  <li>Agile & Scrum Methodologies</li>
+  <li>Waterfall Methodology</li>
 </ul>
 
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=louiseanne2&show_icons=true&theme=radical&count_private=true&hide_border=true" /> </p> 

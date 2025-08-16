@@ -3,7 +3,10 @@
 <p align="center"> <img src="https://github.com/louiseanne2/louiseanne2/blob/main/porpol.png?raw=true" alt="Louise Profile" width="600" /> </p> 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&pause=1000&color=E70FF7&width=435&separator=%3C&lines=Delivering+excellence+through+quality.%3CPrevent+defects%2C+ensure+perfection.%3CGreat+software+isn%E2%80%99t+built+by+chance;+it%E2%80%99s+assured+through+quality.)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=E70FF7&width=435&lines=Delivering+excellence+through+quality.;Prevent+defects%2C+ensure+perfection.;Because+flawless+matters." />
+</p>
+
 
 <h4 align="left">💻 About Me</h4> 
 <p>I am an aspiring Software Quality Assurance specialist with strong knowledge of manual and automated testing. I aim to ensure software quality by applying structured testing techniques, bug tracking, and continuous improvement practices.</p> 

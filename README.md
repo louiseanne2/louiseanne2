@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" height="5px" />
+
 <p align="center"> <img src="https://github.com/louiseanne2/louiseanne2/blob/main/porpol.png?raw=true" alt="Louise Profile" width="600" /> </p> 
 <h4 align="left">💻 About Me</h4>
 <p>I am an aspiring Software Quality Assurance specialist with strong knowledge of manual and automated testing. I aim to ensure software quality by applying structured testing techniques, bug tracking, and continuous improvement practices.</p>
@@ -16,9 +18,13 @@
 <img src="https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge&logo=testing-library&logoColor=white"/>
 <img src="https://img.shields.io/badge/Waterfall%20Model-4CAF50?style=for-the-badge&logo=water&logoColor=white"/>
 
+<h4 align="left">📌 What I Do as QA</h4>
+<ul>
+  <li>Write and execute test cases to ensure software meets requirements.</li>
+  <li>Perform functional and usability testing.</li>
+  <li>Collaborate with developers to improve software quality.</li>
+</ul>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=louiseanne2&show_icons=true&theme=radical&count_private=true&hide_border=true" /> </p> 
   
 <p align="left"> 
 <p><strong> Connect Here: </strong></p> <a href="https://www.facebook.com/profile.php?id=61553677047863" target="_blank"> 

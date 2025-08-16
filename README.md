@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/louiseanne2/louiseanne2/blob/main/porpol.png?raw=true" alt="Louise Profile" width="900" /> </p> 
 <h4 align="left">💻 About Me</h4>
-<p>I am an aspiring Software Quality Assurance specialist with strong knowledge of manual and automated testing. I aim to ensure software quality by applying structured testing techniques, bug tracking, and continuous improvement practices.</p>
+<p>I am an aspiring **Software Quality Assurance** specialist with strong knowledge of manual and automated testing. I aim to ensure software quality by applying structured testing techniques, bug tracking, and continuous improvement practices.</p>
  
 
 - 🎓 I’m currently studying the course **Bachelor of Science in Information Systems** 

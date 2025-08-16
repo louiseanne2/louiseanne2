@@ -11,7 +11,7 @@
 
 <h4 align="left">💻 About Me</h4>
 
-<img src="https://github.com/louiseanne2/louiseanne2/blob/main/kuromi%20sleeping%20lol%20(1).jfif" width="35%" align="right" />
+<img src="https://github.com/louiseanne2/louiseanne2/blob/main/kuromi%20sleeping%20lol%20(1).jfif" width="50%" align="right" />
 
 <p>
   I am an aspiring Software Quality Assurance specialist with few knowledge of manual testing.

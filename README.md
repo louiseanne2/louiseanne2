@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=E70FF7&width=435&lines=Delivering+excellence+through+quality.;Prevent+defects%2C+ensure+perfection.;Because+flawless+matters." />
 </p>
 
+<img src="(https://github.com/louiseanne2/louiseanne2/blob/main/kuromi%20sleeping%20lol%20(1).jfif)" width="25%" align="right" />
+
+
 <p align="center"> <img src="https://github.com/louiseanne2/louiseanne2/blob/main/porpol.png?raw=true" alt="Louise Profile" width="600" /> </p> 
 
 <h4 align="left">💻 About Me</h4> 

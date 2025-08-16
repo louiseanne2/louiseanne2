@@ -14,8 +14,8 @@
 <img src="https://github.com/louiseanne2/louiseanne2/blob/main/kuromi%20sleeping%20lol%20(1).jfif" width="35%" align="right" />
 
 <p>
-  I am an aspiring Software Quality Assurance specialist with strong knowledge of manual and automated testing.
-  I aim to ensure software quality by applying structured testing techniques, bug tracking, and continuous improvement practices.
+  I am an aspiring Software Quality Assurance specialist with few knowledge of manual testing.
+  I aim to ensure software quality by applying structured testing techniques, and continuous improvement practices.
 </p>
 
 <ul>

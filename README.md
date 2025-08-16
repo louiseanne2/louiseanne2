@@ -12,7 +12,7 @@
   <li>Manual Testing (Test Cases, Test Scenarios, Bug Reports)</li>
   <li>Waterfall Methodology</li>
 </ul>
-
+<p align="left">
 <img src="https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge&logo=testing-library&logoColor=white"/>
 <img src="https://img.shields.io/badge/Waterfall%20Model-4CAF50?style=for-the-badge&logo=water&logoColor=white"/>
 

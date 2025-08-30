@@ -1,7 +1,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/louiseanne2/louiseanne2/blob/main/Image.jfif"?raw=true" alt="Louise Profile" width="800" />
+  <img src="https://github.com/louiseanne2/louiseanne2/blob/main/Image.jfif?raw=true" alt="Louise Profile" width="800" />
 </p>
 
 <p align="center">

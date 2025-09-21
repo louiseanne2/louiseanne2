@@ -23,7 +23,7 @@
   <li>🎓 I hold an <strong>Associate Degree in Computer Technology</strong>,</li>
   <li>🎓 and I'm currently pursuing a <strong>Bachelor of Science in Information Systems</strong></li>
   <li>🔍 I'm passionate about <strong>software testing</strong> and <strong>quality assurance</strong></li>
-  <li>💡 I love solving problems, exploring, and studying!</li>
+  <li>💡 I love <strong>solving problems, exploring, and studying!</strong></li>
 </ul>
 
 

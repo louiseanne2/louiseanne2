@@ -42,7 +42,7 @@
 <h4 align="left">📌 What I Do as QA</h4>
 <ul>
   <li>Write and execute test cases to ensure software meets requirements.</li>
-  <li>Perform **manual** and **functional** testing.</li>
+  <li>Perform manual and functional testing.</li>
   <li>Collaborate with developers to improve software quality.</li>
 </ul>
 
